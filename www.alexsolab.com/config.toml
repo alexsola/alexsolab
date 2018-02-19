@@ -1,0 +1,31 @@
+baseurl = "http://www.alexsolab.com"
+languageCode = "en-us"
+title = "Alejandro Sola Banasco"
+theme = "retrofulhugo"
+pygmentsUseClasses = true
+#googleAnalytics = "XXX"
+#disqusShortname = "XXX"
+
+[Params]
+  subtitle = "Or that dark place where the thoughts go..."
+  logo = "img/logo.png"
+  favicon = "img/favicon.ico"
+  commit = false
+
+[Author]
+  handle = "AlexSola"
+  name = "Alejandro Sola Banasco"
+  email = "alejandro.sola.banasco@gmail.com"
+  github = "alexsola"
+  twitter = "asolabanasco"
+  youtube = "channel/UCiQVbLN-Ct9CKNA0cGeVZJg"
+
+[[menu.main]]
+    name = "Introduction"
+    url = "/page/introduction/"
+    weight = 1
+
+[[menu.main]]
+    name = "CV"
+    url = "/page/cv/"
+    weight = 2 
