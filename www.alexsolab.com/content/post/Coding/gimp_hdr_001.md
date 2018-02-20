@@ -4,7 +4,7 @@ date: 2016-10-10T20:10:58+01:00
 draft: false
 ---
 
-![HDR Final](/img/gimp_hdr_intro.jpg "Test picture taken in Hamburg")
+![HDR Final](/img/gimp_hdr_intro.jpg "Test picture taken in Luxemburg")
 
 I wanted to understand how HDR photography works so I thought the best way to fully understand it is to try to code something to apply the algorithm and see the results. As GIMP has a very powerful framework for scripting, I thought this is a good platform to do it. GIMP support 2 languages: Python and Scheme. To make things more interesting, and go back to the days of Lisp programming, I chose Scheme for this. Follows the requirements for the project:
 
