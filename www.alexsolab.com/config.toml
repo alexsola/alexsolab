@@ -1,9 +1,9 @@
-baseurl = "http://www.alexsolab.com/"
+baseurl = "http://www.alexsolab.com"
 languageCode = "en-us"
 title = "Alejandro Sola Banasco"
 theme = "retrofulhugo"
 pygmentsUseClasses = true
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-114459551-1"
 #disqusShortname = "XXX"
 
 [Params]
