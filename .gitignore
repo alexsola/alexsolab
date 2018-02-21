@@ -1,4 +1,4 @@
 www.alexsolab.com/static
 www.alexsolab.com/public
 www.alexsolab.com/themes
-*DS_Store
+.DS_Store
