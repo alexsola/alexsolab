@@ -7,7 +7,7 @@ googleAnalytics = "UA-114459551-1"
 #disqusShortname = "XXX"
 
 [Params]
-  subtitle = "Or that dark place where the thoughts go..."
+  subtitle = "Or yond dark lodging wh're the thoughts dwelleth..."
   logo = "img/logo.png"
   favicon = "img/favicon.ico"
   commit = false
