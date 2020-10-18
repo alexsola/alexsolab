@@ -1,0 +1,17 @@
+.wraptocenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto auto;
+}
+
+#pageContainer { /*css for the whole page*/
+    margin: auto auto;   /*center the whole page*/
+    width: 300px;
+    height: 300px;
+}
+
+.centeredImage {
+  position: absolute;
+  margin: auto auto;
+}
