@@ -14,3 +14,5 @@ You may by now, my dear reader, asking yourself: but how they actually deploy? R
 
 These clusters are, definately, intersting, but may not be the best solution for everybody. As a conclusion: yes, it is possible to spend 8 months in having a proper Kubernetes cluster fully functional, selfhealing and redundant. But these clusters require a huge amount of love and patiante. So maybe a regular cloud based cluster is the better solution for you.
 
+
+![K8S](/img/kubernetes.png)
