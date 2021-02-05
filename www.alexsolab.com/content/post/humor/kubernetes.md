@@ -12,7 +12,7 @@ Impressive, right? But how do I get one? That is pretty easy, but I am afraid al
 
 You may by now, my dear reader, asking yourself: but how they actually deploy? Right. After building the container, as always, place them in the repository tray. The provider can provide the adecuate tray for the race of kubernetes that is in the cluster. During their youth, they develop and train small arms (very similar to the ones on a Tyronsaurus Rex). Once they are adult and the deployment structure is built, they add the containers to their daily routine. Petting them, moving them to one deployment to another or destroying them in an environmental friendly way. Sometimes, you need to assist providing the needed materials for the deployment. They will provide specific written isntructions about this. Have a notebook and a pen o pencil handy as they may ask for it. Don't worry about where to get the materials, as they are pretty common in all farms.
 
-These clusters are, definately, intersting, but may not be the best solution for everybody. As a conclusion: yes, it is possible to spend 8 months in having a proper Kubernetes cluster fully functional, selfhealing and redundant. But these clusters require a huge amount of love and patiante. So maybe a regular cloud based cluster is the better solution for you.
+These clusters are, definately, intersting, but may not be the best solution for everybody. As a conclusion: yes, it is possible to spend 8 months in having a proper Kubernetes cluster fully functional, selfhealing and redundant. But these clusters require a huge amount of love and patience. So maybe a regular cloud based cluster is the better solution for you.
 
 
 ![K8S](/img/Kubernetes.png)
